@@ -1,7 +1,5 @@
 Final project:   A Low-Voltage Bandgap Reference 
 
-Please send your report to  黃元邦 [ r10943037@ntu.edu.tw ](mailto:r10943037@ntu.edu.tw)in Rm 328 before Dec. 26, 2023, at 10:00a.m. 
-
 ![](Aspose.Words.0ab375cb-c6fe-40c3-9835-61b4a9d6eadc.001.jpeg)Fig. 1 
 
 
